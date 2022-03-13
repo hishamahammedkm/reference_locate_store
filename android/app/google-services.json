@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "939063114049",
+    "project_id": "find-best-deal",
+    "storage_bucket": "find-best-deal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939063114049:android:afff8d4d4db9d2b43a09c0",
+        "android_client_info": {
+          "package_name": "com.flutterflow.courts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939063114049-iv40l16cs023hgujcnosc8i65h0sdj4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3qt0x15bMjw94wsV1J4DDK_SNeJqPMNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939063114049-iv40l16cs023hgujcnosc8i65h0sdj4m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939063114049-jvpp6qt5ho5ttiakd3jk62pmp9ragibe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.courts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
